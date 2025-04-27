@@ -1,9 +1,9 @@
 # Trabajo Práctico 4: Recursividad
 
 ## Información del Alumno
-- Nombre: 
-- Apellido:
-- Legajo:
+- Nombre: Macarena
+- Apellido: Ardevol
+- Legajo: 64300
 
 ## Objetivos
 - Comprender y aplicar el concepto de recursividad
@@ -84,7 +84,7 @@ Para cada etapa:
 1. Realizar un commit con los cambios correspondientes
 2. Incluir los archivos de implementación y pruebas
 3. Incluir un README.md con:
-   - Descripción del problema
+   - Descripción del problema: 
    - Instrucciones de ejecución
    - Ejemplos de uso
    - Capturas de pantalla de los tests ejecutados
